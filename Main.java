@@ -4,8 +4,6 @@ class Main {
     Scanner scan= new Scanner(System.in);
     System.out.println("Enter a new name");
     String name= scan.nextLine();
-    String firstL= name.substring(0,1);
-    System.out.println(firstL);
-
+    lalallalallalafnieoawnofenonewonfown;
   }
 }
